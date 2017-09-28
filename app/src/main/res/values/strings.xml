@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestXimXim</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="tabs_title_array">
+        <item>tab2</item>
+        <item>tab1</item>
+    </string-array>
+</resources>
